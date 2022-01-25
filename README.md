@@ -1,6 +1,6 @@
 # ImageCompressorEx
 
-Image Compressor Example is a unsupervised machine learning exercise wich consists in compress an image using the K-means clustering algorithm and the Performance Component
+Image Compressor Example is a unsupervised machine learning exercise wich consists on compress an image using the K-means clustering algorithm and the Performance Component
 Analysis (PCA) to perform dimensionality reduction.
 
 ## Developed in 🛠️
